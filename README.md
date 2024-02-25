@@ -5,10 +5,10 @@ Soy un joven desarrollador de software que tiene gran afinidad por el backend. E
 <br><br><hr>
 <h3>My GitHub Stats</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nehuengiacone&show_icons=true&theme=tokyonight" alt="Mis Stats" />
+<br><br><br><br><br><br><br><br><hr>
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehuengiacone&theme=tokyonight" alt="Mi Racha" style="display:block;"/>
 
-<hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehuengiacone&theme=tokyonight&layout=compact" />
 
 
