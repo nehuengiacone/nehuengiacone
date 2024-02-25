@@ -1,9 +1,7 @@
-### Hi there 👋
+<h1 align="center">Bienvenido a mi Repositorio 👋👋 </h1>
 
-<!--
-**nehuengiacone/nehuengiacone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h2>Sobre Mí (☞ﾟヮﾟ)☞</h2>
+Soy un joven desarrollador de software que tiene gran afinidad por el backend. El desarrollo lógico y la algoritmia es mi mayor interes.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
